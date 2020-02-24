@@ -4,7 +4,6 @@ const Person = () => {
     return(
         <div>
             person
-            hello
         </div>
     )
 }
